@@ -27,7 +27,7 @@ pip install pillow
 1. **Projeyi Klonlayın**
 
     ```sh
-    git clone https://github.com/kullaniciadi/webp-to-png-converter.git
+    git clone https://github.com/EmirArdaOnal/webptopng.git
     cd webp-to-png-converter
     ```
 
