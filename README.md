@@ -63,7 +63,6 @@ pip install pillow
 - `pngklasoru`
   - `image1.png`
   - `image2.png`
-- GitHub: [kullaniciadi](https://github.com/kullaniciadi)
 
 ---
 
