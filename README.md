@@ -63,7 +63,3 @@ pip install pillow
 - `pngklasoru`
   - `image1.png`
   - `image2.png`
-
----
-
-Bu README dosyası, projenizin GitHub sayfasında profesyonel ve çekici bir görünüm sunacak. README dosyasını `README.md` adıyla projenizin kök dizinine koyabilirsiniz.
